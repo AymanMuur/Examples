@@ -1,0 +1,5 @@
+C:\Users\Dell 187\Desktop\Examples1\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Dell 187\Desktop\Examples1\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 187\Desktop\Examples1\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Dell 187\Desktop\Examples1\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.AssemblyInfo.cs
+C:\Users\Dell 187\Desktop\Examples1\Example008_IntroMethod\obj\Debug\net6.0\Example008_IntroMethod.csproj.CoreCompileInputs.cache
